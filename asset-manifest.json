@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/qrmenu/static/css/main.8bf774fd.css",
-    "main.js": "/qrmenu/static/js/main.b5730997.js",
+    "main.js": "/qrmenu/static/js/main.891a77ba.js",
     "static/media/Online-Menu-QR-Code-Malaysia.jpg": "/qrmenu/static/media/Online-Menu-QR-Code-Malaysia.168f14a618820258f8f2.jpg",
     "static/media/logo.png": "/qrmenu/static/media/logo.085fc60d85ddb78f113a.png",
     "index.html": "/qrmenu/index.html",
     "main.8bf774fd.css.map": "/qrmenu/static/css/main.8bf774fd.css.map",
-    "main.b5730997.js.map": "/qrmenu/static/js/main.b5730997.js.map"
+    "main.891a77ba.js.map": "/qrmenu/static/js/main.891a77ba.js.map"
   },
   "entrypoints": [
     "static/css/main.8bf774fd.css",
-    "static/js/main.b5730997.js"
+    "static/js/main.891a77ba.js"
   ]
 }
